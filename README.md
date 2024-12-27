@@ -4,11 +4,16 @@ OpenAI 的官方 Example 根本不知道在寫什麼，我們重寫一個快速�
 # Quickstart
 
 ```
+git clone https://github.com/c-cf/OpenAI-API-quickstart-with-python.git
+```
+建立虛擬環境
+```
+cd OpenAI-API-quickstart-with-python
+python -m venv venv
 pip install openai
 ```
+執行 
 ```
-git clone https://github.com/c-cf/OpenAI-API-quickstart-with-python.git
-cd OpenAI-API-quickstart-with-python
 python assisant_v2_json.py
 ```
 
