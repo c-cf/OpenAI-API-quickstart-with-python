@@ -11,6 +11,7 @@ git clone https://github.com/c-cf/OpenAI-API-quickstart-with-python.git
 cd OpenAI-API-quickstart-with-python
 python -m venv venv
 pip install openai
+
 ```
 執行 
 ```
